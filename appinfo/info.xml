@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<info>
+	<id>deltasync</id>
+	<name>DeltaSync</name>
+	<description>App that allows clients to perform deltasync.</description>
+	<version>0.0.1</version>
+	<licence>AGPL</licence>
+	<author>Roeland Jago Douma</author>
+	<dependencies>
+		<owncloud min-version="8.2" max-version="8.2" />
+	</dependencies>
+</info>
